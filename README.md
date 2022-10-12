@@ -14,9 +14,8 @@ Inspired by [vidyabhandary](https://github.com/vidyabhandary)
 ### TIL snippets
 <!-- tilentries starts -->
 
-* [Basic MapReduce Understanding](https://github.com/marcelcastrobr/til/blob/main/sql/map_reduce.md)
-* [Declarative Language vs Imperative Language](https://github.com/marcelcastrobr/til/blob/main/sql/DeclarativeVsImperative.md)
 * [Mini scripts bat file](https://github.com/marcelcastrobr/til/blob/main/scripts/script_create_open_folders.md)
+* [Random Cut Forest](https://github.com/marcelcastrobr/til/blob/main/ml/random_cut_forest.md)
 <!-- tilentries ends -->
 More on [marcelcastrobr.github.io/TIL/](https://marcelcastrobr.github.io/TIL/)
 </tr>
