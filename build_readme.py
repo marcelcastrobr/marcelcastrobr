@@ -19,7 +19,7 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 def get_tils():
-    til_readme = "https://raw.githubusercontent.com/marcelcastrobr/TIL/master/README.md"
+    til_readme = "https://raw.githubusercontent.com/marcelcastrobr/TIL/main/README.md"
     r = requests.get(til_readme)
 
     page = requests.get(til_readme)
