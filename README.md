@@ -7,11 +7,6 @@ Inspired by [vidyabhandary](https://github.com/vidyabhandary)
 
 ---
 
-### On my blog
-<!-- blog starts -->
-
-<!-- blog ends -->
-More on 
 </tr>
 
 <tr>
