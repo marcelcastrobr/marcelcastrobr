@@ -14,6 +14,7 @@ Inspired by [vidyabhandary](https://github.com/vidyabhandary)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Encoding and Decoding](https://github.com/marcelcastrobr/til/blob/main/data-application/encoding.md)
 * [Mini scripts bat file](https://github.com/marcelcastrobr/til/blob/main/scripts/script_create_open_folders.md)
 * [Random Cut Forest](https://github.com/marcelcastrobr/til/blob/main/ml/random_cut_forest.md)
 <!-- tilentries ends -->
