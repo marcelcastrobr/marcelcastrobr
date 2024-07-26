@@ -26,7 +26,7 @@ More on [marcelcastrobr.github.io/TIL/](https://marcelcastrobr.github.io/TIL/)
 ---
 
 <a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
-<a href="https://github.com/marcelcastrobr/vidyabhandary/actions"><img src="https://github.com/marcelcastrobr/marcelcastrobr/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
+<a href="https://github.com/marcelcastrobr/marcelcastrobr/actions"><img src="https://github.com/marcelcastrobr/marcelcastrobr/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=marcelcastrobr.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=marcelcastrobr.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
 
