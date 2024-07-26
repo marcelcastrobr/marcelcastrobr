@@ -14,9 +14,9 @@ Inspired by [vidyabhandary](https://github.com/vidyabhandary)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Visual Studio Code using your Browser](https://github.com/marcelcastrobr/til/blob/main/scripts/vscode-server-remote.md)
+* [Run your own LLM on your macOS using Llama.cpp](https://github.com/marcelcastrobr/til/blob/main/ml/llamacpp-macos.md)
 * [PIPENV](https://github.com/marcelcastrobr/til/blob/main/python/pipenv.md)
-* [Encoding and Decoding](https://github.com/marcelcastrobr/til/blob/main/data-application/encoding.md)
-* [Mini scripts bat file](https://github.com/marcelcastrobr/til/blob/main/scripts/script_create_open_folders.md)
 <!-- tilentries ends -->
 More on [marcelcastrobr.github.io/TIL/](https://marcelcastrobr.github.io/TIL/)
 </tr>
