@@ -14,9 +14,9 @@ Inspired by [vidyabhandary](https://github.com/vidyabhandary)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Document Parsing using Grobid](https://github.com/marcelcastrobr/til/blob/main/data-application/doc_parsing.md)
 * [Conda and Miniconda](https://github.com/marcelcastrobr/til/blob/main/python/conda.md)
 * [Windows File System](https://github.com/marcelcastrobr/til/blob/main/python/wfs.md)
-* [Visual Studio Code using your Browser](https://github.com/marcelcastrobr/til/blob/main/scripts/vscode-server-remote.md)
 <!-- tilentries ends -->
 More on [marcelcastrobr.github.io/TIL/](https://marcelcastrobr.github.io/TIL/)
 </tr>
