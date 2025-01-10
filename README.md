@@ -1,4 +1,4 @@
-###  Solutions Architect | Data Science Enthusiast 
+###  Data Scientist | Solutions Architect | Cloud Engineer 
 More on [marcelcastrobr.github.io](https://marcelcastrobr.github.io)
 
 Inspired by [vidyabhandary](https://github.com/vidyabhandary)
